@@ -55,7 +55,7 @@ Thoroughly test the deployed application to ensure it functions correctly and pr
 6. Deployment 
 
 ## Streamlt Overview
-![Predict Flat Prices]
+![Predict Flat Prices](https://github.com/Sakthipavithran16/Singapore_flat_price_predictions/blob/main/Streamlit%20UI.JPG)
 
 ## Conclusion
 The project will benefit both potential buyers and sellers in the Singapore housing market. 
